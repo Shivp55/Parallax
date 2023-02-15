@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    /* font-family: 'Inter', sans-serif; */
+    font-family: 'Lato', sans-serif;
+    color:gray;
+    
+
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    
+}
+#img1{
+
+    padding-bottom:50px ;
+}
+#img2{
+    background-color: #313534;
+    color: white;
+    padding-bottom:50px ;
+
+
+}
+#img2 h1{
+    padding: 20px;
+}
+#img3{
+    background-color: #313534;
+    color: white;
+    padding-bottom:80px ;
+}
+#img4 img{
+    background-size: cover;
+    width: 100%;
+}
